@@ -30,7 +30,7 @@ $resultado = consulta();
             <tr>
               <th>Identificacion</th>
               <th>Correo Electronico</th>
-              <th>acciones</th>
+              <th>opciones</th>
             </tr>
           </thead>
           <tbody>
